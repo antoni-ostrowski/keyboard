@@ -1,13 +1,13 @@
 # keyboard 
 ### corne rev4.1, vial firmware setup
-qwerty as base layout, learning colemak DH, fully custom symbol layer, inverted colons and quotes
+qwerty, colemak DH, fully custom symbol layer, inverted colons and quotes
  - macros M0-M4: window managment
  - macros M10-M14: tmux window switching
  - macros M5-M8: 
    - M7 raycast,
    - M8 cli "clear" + enter
    - M6 tmux prefix + :
-   - M7 tmux prefix
+   - M5 tmux prefix
  - M9 macos screenshot
 
 <img width="1044" height="338" alt="image" src="https://github.com/user-attachments/assets/7a6004e2-5ee1-4564-a24f-619ab814aa39" />
