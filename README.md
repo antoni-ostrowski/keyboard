@@ -1,6 +1,6 @@
 # keyboard 
 ### corne rev4.1, vial firmware setup
-qwerty, colemak DH, fully custom symbol layer, inverted colons and quotes
+canary layout, custom symbol layer, navigation layer
  - macros M0-M4: window managment
  - macros M10-M14: tmux window switching
  - macros M5-M8: 
@@ -10,8 +10,11 @@ qwerty, colemak DH, fully custom symbol layer, inverted colons and quotes
    - M5 tmux prefix
  - M9 macos screenshot
 
-<img width="1044" height="338" alt="image" src="https://github.com/user-attachments/assets/7a6004e2-5ee1-4564-a24f-619ab814aa39" />
-<img width="1041" height="330" alt="image" src="https://github.com/user-attachments/assets/1abe098e-d461-4fae-91c6-a16b12b2b72b" />
-<img width="1038" height="335" alt="image" src="https://github.com/user-attachments/assets/cceeceb2-5019-4e22-80f9-264f546c5e76" />
-<img width="1030" height="329" alt="image" src="https://github.com/user-attachments/assets/6b6304d0-7d04-46a6-a758-558148aff87e" />
+<img width="901" height="334" alt="image" src="https://github.com/user-attachments/assets/b3b89244-758b-4411-8d47-3c699ba02782" />
+<img width="914" height="334" alt="image" src="https://github.com/user-attachments/assets/abe36e9a-9275-45d7-9b0d-062a65aab949" />
+<img width="901" height="330" alt="image" src="https://github.com/user-attachments/assets/b64c61ea-d468-4e0a-bb2e-e3445c3ded59" />
+<img width="910" height="325" alt="image" src="https://github.com/user-attachments/assets/35954a18-7307-4300-ba2d-e90c4daaba8a" />
+
+
+
 
